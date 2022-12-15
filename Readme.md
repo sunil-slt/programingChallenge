@@ -14,7 +14,10 @@ We need a middle ware which enable us to rate limit the api call per minute.
 ## Acceptance Criteria
 1. Working Code 
 2. Test cases written for a single API (/user) (Optional, best to have)
-3. Do not fork this repo, commit code in your repository and share your repository link.
+3. For solution submition do not fork this repository.
+4. Create your repo, remove .git folder from root folder of this project.
+5. Init fresh github and add your repo's remote url and push changes in your repository.
+6. Share your repository URL
 
 ## Evolutions Points
 1. Working code - 5
